@@ -5,7 +5,7 @@ WHAT YOU'LL LEARN
 How to set up and use Redux Toolkit with React-Redux
 PREREQUISITES
 Familiarity with ES6 syntax and features
-Knowledge of React terminology: JSX, State, Function Components, Props, and Hooks
+Knowledge of React terminology: JSX, State, Function Components, Props, and Hooks (useEffect, useState etc.)
 Understanding of Redux terms and concepts
 Introduction
 Welcome to the Redux Toolkit Quick Start tutorial! This tutorial will briefly introduce you to Redux Toolkit and teach you how to start using it correctly.
